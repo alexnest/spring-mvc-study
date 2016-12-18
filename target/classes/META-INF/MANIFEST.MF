@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Built-By: yangjie
-Build-Jdk: 1.7.0_45
+Build-Jdk: 1.7.0_40
+Built-By: admin
 Created-By: Maven Integration for Eclipse
 
